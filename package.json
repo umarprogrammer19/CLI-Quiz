@@ -1,0 +1,19 @@
+{
+  "name": "cli-project-quiz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Quizz.js",
+  "type": "module",
+  "types": "inquirer",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "D": "^1.0.0",
+    "inquirer": "^9.2.15"
+  }
+}
